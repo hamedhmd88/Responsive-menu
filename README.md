@@ -8,7 +8,7 @@
 
 
 <div>
-  <img src="https://imgtr.ee/images/2023/06/25/d5zAl.png" alt="d5zAl.png" border="0" />  
+  <a href="https://ibb.co/yk9YP86"><img src="https://i.ibb.co/bv02mrs/Untitled.png" alt="Untitled" border="0"></a> 
 </div>
 
 <hr>
@@ -19,7 +19,7 @@
 
 
 <div>
-  <img src="https://imgtr.ee/images/2023/06/25/dV9OQ.png" alt="dV9OQ.png" border="0" />
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/fv4snxs/Untitled1.png" alt="Untitled1" border="0"></a>
 </div>
 
 <hr>
@@ -30,5 +30,5 @@
 
 
 <div>
-  <img src="https://imgtr.ee/images/2023/06/25/dVnHb.png" alt="dVnHb.png" border="0" />
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/C99wM9B/Untitled2.png" alt="Untitled2" border="0"></a>
 </div>
