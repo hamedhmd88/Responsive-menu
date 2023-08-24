@@ -14,7 +14,7 @@
 <hr>
 
 <ul>
-  <li>When the width of our screen is reduced and it turns into tablet or mobile mode, the menu collapses and the menu hamburger icon is displayed:</li>
+  <li>When the width of our screen is reduced and it turns into tablet or mobile mode, the menu collapses and the menu hamburger icon is displayed :</li>
 </ul>
 
 
