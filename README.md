@@ -3,7 +3,7 @@
 
 
 <ul >
-  <li > Here we have a menu in landscape mode, which creates an effect by hovering over the items. The menu in landscape mode : </li>
+  <li > Heee we have a menu in landscape mode, which creates an effect by hovering over the items. The menu in landscape mode : </li>
 </ul>
 
 
